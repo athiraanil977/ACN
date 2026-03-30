@@ -1,0 +1,6 @@
+bibithya,10
+dervin, 20
+archana, 30
+archa, 50
+athira, 80
+christy, 60 
